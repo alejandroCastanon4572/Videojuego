@@ -1,0 +1,11 @@
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\bin\Debug\proyecto ping pong.exe.config
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\bin\Debug\proyecto ping pong.exe
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\bin\Debug\proyecto ping pong.pdb
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto ping pong.csprojAssemblyReference.cache
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto_ping_pong.Properties.Resources.resources
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto ping pong.csproj.GenerateResource.cache
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto ping pong.csproj.CoreCompileInputs.cache
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto ping pong.exe
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto ping pong.pdb
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto_ping_pong.juego.resources
+C:\Users\familia cardona\source\repos\proyecto ping pong\proyecto ping pong\obj\Debug\proyecto_ping_pong.inicio.resources
